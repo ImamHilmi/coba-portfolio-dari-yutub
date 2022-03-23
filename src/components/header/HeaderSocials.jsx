@@ -4,16 +4,16 @@ import { BsLinkedin, BsGithub, BsTwitter, BsInstagram } from "react-icons/bs"
 const HeaderSocials = () => {
   return (
     <div className="header__socials">
-        <a href="https://www.linkedin.com/in/imam-hilmi/" target="_blank">
+        <a href="https://www.linkedin.com/in/imam-hilmi/" target="_blank" rel="noreferrer">
             <BsLinkedin />
         </a>
-        <a href="https://github.com/ImamHilmi/" target="_blank">
+        <a href="https://github.com/ImamHilmi/" target="_blank" rel="noreferrer">
             <BsGithub />
         </a>
-        <a href="https://twitter.com/ImamHilmi1" target="_blank">
+        <a href="https://twitter.com/ImamHilmi1" target="_blank" rel="noreferrer">
             <BsTwitter />
         </a>
-        <a href="https://www.instagram.com/imam_hilmi222/" target="_blank">
+        <a href="https://www.instagram.com/imam_hilmi222/" target="_blank" rel="noreferrer">
             <BsInstagram />
         </a>
     </div>
