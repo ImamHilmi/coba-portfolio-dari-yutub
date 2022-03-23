@@ -13,6 +13,7 @@ const Header = () => {
         <h5 className="text-light">
           FrontEnd Developer
         </h5>
+        
         <CTA />
         <HeaderSocials />
 
