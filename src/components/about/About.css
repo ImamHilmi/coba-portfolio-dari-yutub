@@ -45,7 +45,7 @@
 
     .about-card:hover {
         background: transparent;
-        color: var(--color-bg-variant);
+        color: var(--color-white);
         cursor: default;
     }
 
